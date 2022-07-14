@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292719919652",
+    "firebase_url": "https://smart-d6140-default-rtdb.firebaseio.com",
+    "project_id": "smart-d6140",
+    "storage_bucket": "smart-d6140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292719919652:android:82678ff5d92d244f138eb1",
+        "android_client_info": {
+          "package_name": "com.example.doctor_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292719919652-vpe5fhj9bb27j8ti122jhrrq55spt7kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUO7_BIUyyuTyULrLG4KnYbOMtTT5ORck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292719919652-vpe5fhj9bb27j8ti122jhrrq55spt7kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
